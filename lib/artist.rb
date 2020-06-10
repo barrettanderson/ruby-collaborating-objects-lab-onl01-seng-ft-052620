@@ -15,5 +15,5 @@ class Artist
 
   end
 
-  
+
 end
