@@ -10,4 +10,8 @@ class MP3Importer
     files = []
   end
 
+  def import
+
+  end
+
 end
