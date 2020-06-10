@@ -7,7 +7,6 @@ class MP3Importer
   end
 
   def files
-    files = []
     Dir.each_child(path).map {|file| file}
   end
 
