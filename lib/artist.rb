@@ -28,13 +28,13 @@ class Artist
   #     self.create(name)
   #   end
   # end
-  # 
+  #
   # def self.find(name)
   #   self.all.detect { |artist| artist.name == name }
   #   artist.save
   #   artist
   # end
-  # 
+  #
   # def self.create(name)
   #   artist = Artist.new(name)
   #   artist.save
