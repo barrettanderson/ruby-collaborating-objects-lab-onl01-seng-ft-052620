@@ -8,6 +8,7 @@ class MP3Importer
 
   def files
     files = []
+    Dir.each_child(path)
   end
 
   def import
